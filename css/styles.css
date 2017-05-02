@@ -52,7 +52,8 @@ body{
 }
 
 #wrapper{
-    width: 1349px;
+    width: 1350px;
+    margin: 0 auto;
 }
 
 #header{
@@ -60,7 +61,7 @@ body{
 }
 
 #menu{
-    width: 100%;
+    width: 1350px;
     background: #262b37;
     margin: 0 auto;
 }
@@ -111,9 +112,9 @@ body{
 .banner-text{
     position: absolute;
     width: 1000px;
-    top: 35%;
-    padding: 2%;
-    margin: 0 12.5%;
+    top: 220px;
+    padding: 30px;
+    margin: 0 175px;
     border: 1px solid #fff;
     color: #fff;
     font-family: RobotoMedium;
